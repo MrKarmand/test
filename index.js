@@ -7,3 +7,6 @@ function counter(){
 function counter2(){
     return "ok";
 }
+function counter3(){
+    return "ok";
+}
